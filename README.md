@@ -1,4 +1,4 @@
-# LLSMF2013 project
+# Machine Learning project
 
 Project done in Data Aanalytics applied in business in **Université Catholique de Louvain-la-Neuve**. The objective is to put into practice quantitative data analysis techniques through a case study requiring a data analysis software. All the project has been programmed in **R**. The code is available in this [link](code.R).
 
