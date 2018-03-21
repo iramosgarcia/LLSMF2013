@@ -1,6 +1,6 @@
 # LLSMF2013 project
 
-Project done in Data Aanalytics applied in business in **Université Catholique de Louvain-la-Neuve**. The objective is to put into practice quantitative data analysis techniques through a case study requiring a data analysis software. All the project has been programmed in **R**. The code is available in this link.
+Project done in Data Aanalytics applied in business in **Université Catholique de Louvain-la-Neuve**. The objective is to put into practice quantitative data analysis techniques through a case study requiring a data analysis software. All the project has been programmed in **R**. The code is available in this [link](code.R).
 
 This data set is divided into two subsets, one training set (Available historical data : [Train.csv](Train.csv)) and one test set (New data to be predicted : [TestStudent.csv](TestStudent.csv)). They both contain 15,000 records of loans. The training set contains 23 explanatory variables (features) and one binary target, dependent, categorical variable representing whether the customer defaulted the payment or not (coded as a binary variable). These features include continuous as well as categorical variables such as, among others, the gender of the customer, age, education, history of payments, etc. 
 
