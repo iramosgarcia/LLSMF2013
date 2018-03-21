@@ -1,3 +1,6 @@
+
+## Authors: Nicollas Cozzolino and Ignacio Ramos garcía
+
 library("ggplot2")
 library("lattice")
 library("rgl")
